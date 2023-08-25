@@ -11,7 +11,7 @@ import SwiftUI
 struct GridExplorationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PortraitLayout()
         }
     }
 }
